@@ -1,0 +1,13 @@
+{
+  "name": "laundry-mvp-backend",
+  "version": "0.1.0",
+  "description": "Minimal Node.js + Express backend for a laundry marketplace MVP",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
